@@ -3,3 +3,5 @@ ALTER TABLE invoice
 
 ALTER TABLE invoice
     ALTER COLUMN create_at SET DEFAULT CURRENT_TIMESTAMP;
+
+
